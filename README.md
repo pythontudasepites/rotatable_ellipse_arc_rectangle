@@ -8,4 +8,4 @@ Ehhez használható a *custom_canvas* modulban definiált  **CustomCanvas** oszt
 
 A **CustomCanvas** osztály, illetve metódusainak használatára mutat egy illusztratív alkalmazási példát a *cat_and_hat* modul programkódja. Itt egy stilizált macskafejet rajzolunk ki ellipsziseket és ellipszisíveket használva, valamint egy téglalapokból kialakított kalapot, amelyet a macskafej tetejére helyezük. Végül az egész rajzot kicsit jobbra elforgatjuk. Az eredmény alább látható. Ilyen grafikát csupán a **Canvas** alapmetódusait használva nem tudnánk megalkotni.
 
-<img src="https://github.com/pythontudasepites/rotatable_ellipse_arc_rectangle/blob/main/cat_with_hat.png" width="481" height="500">
+<img src="https://github.com/pythontudasepites/rotatable_ellipse_arc_rectangle/blob/main/cat_with_hat.png" width="385" height="400">
